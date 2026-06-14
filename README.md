@@ -37,3 +37,8 @@ Documented · MIT licensed · Maintained
 
 First Pull Shark test
 Second Pull Shark test
+
+## Screenshots
+
+![quickdraw-test dashboard](docs/screenshots/app.png)
+
