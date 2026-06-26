@@ -1,13 +1,13 @@
-<div align="center">
+﻿<div align="center">
 
-# 🚀 Quickdraw Test
+# Quickdraw Test
 
-**Quickdraw Test — professional open source project.**
+**GitHub workflow test repository used for pull request, contribution, and repository automation practice.**
 
-Documented · MIT licensed · Maintained
+GitHub, pull requests, workflow testing
 
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-22c55e?style=for-the-badge)](https://github.com/mafzalkalwardev/quickdraw-test)
 
 </div>
 
@@ -17,16 +17,27 @@ Documented · MIT licensed · Maintained
 
 ![Application screenshot](docs/screenshots/app.png)
 
+## Overview
 
-## 🐍 Contribution graph
+GitHub workflow test repository used for pull request, contribution, and repository automation practice.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/quickdraw-test/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/quickdraw-test/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/quickdraw-test/output/snake.svg" />
-</picture>
+## Highlights
 
----
+- Clean repository documentation with a project-specific summary.
+- Screenshot section when captured portfolio media is available.
+- Search-friendly tags for portfolio and GitHub discovery.
+- Maintained by [Muhammad Afzal Kalwar](https://github.com/mafzalkalwardev).
 
-First Pull Shark test
-Second Pull Shark test
+## Quick Start
+
+Clone the repository and review the source files for setup or usage details:
+
+``bash
+git clone https://github.com/mafzalkalwardev/quickdraw-test.git
+cd quickdraw-test
+``
+
+## Author
+
+Muhammad Afzal Kalwar - Full-Stack Developer and Python Automation Engineer  
+Portfolio: https://mafzalkalwardev.github.io
